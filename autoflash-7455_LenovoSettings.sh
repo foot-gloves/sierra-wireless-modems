@@ -276,11 +276,11 @@ send AT!USBCOMP=1,1,0000100D
 sleep 1
 send AT!USBVID=1199
 sleep 1
-send AT!USBPID=9071,9070
+send AT!USBPID=9079,9078
 sleep 1
-send AT!USBPRODUCT=\"EM7455\"
+send AT!USBPRODUCT=\"Sierra Wireless EM7455 Qualcomm Snapdragon X7 LTE-A\"
 sleep 1
-send AT!PRIID=\"9904609\",\"002.030\",\"Generic-Laptop\"
+send AT!PRIID=\"9904609\",\"002.026\",\"Lenovo-Storm\"
 sleep 1
 send AT!SELRAT=06
 sleep 1
